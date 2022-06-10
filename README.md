@@ -1,5 +1,4 @@
 ### Hi there 👋
-# My name is Pakkapon
 <h1 align="center">Hi 👋, I'm Karn</h1>
 <h3 align="center">full stack software developer</h3>
 
