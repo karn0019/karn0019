@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Karn</h1>
-<h3 align="center">full stack software developer</h3>
+<h3 align="center">full stack software developer in traning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karn0019&label=Profile%20views&color=0e75b6&style=flat" alt="karn0019" /> </p>
 
